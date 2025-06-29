@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I’m Sakshi!
 
-<!--
-**patilsakshi123/patilsakshi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I build data analytics dashboards, ML models, and BI projects.
 
-Here are some ideas to get you started:
+## 📌 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- NATIONAL FAMILY HEALTH SURVEY DASHBAORD:
+Interactive Power BI Dashboard for India’s Health, Nutrition & Empowerment Indicators. Explore 130+ key metrics with dynamic filters, heatmaps, and gender/area insights for data-driven policy and research.
+
+🛠️ Tools Used
+Power BI Desktop
+
+DAX Measures
+
+Power Query
+
+Dynamic Slicers & Conditional Formatting
+
+Smart Narrative & Hierarchy Tables
+
+CSV/Excel Data Preparation
+https://github.com/patilsakshi123/National-Family-Health-Survey
+
+
+
+- [📊 Churn Analysis Dashboard](https://github.com/YourUsername/Churn-Analysis-Dashboard)  
+  Power BI dashboard predicting customer churn with SQL + Python ML.
+
+- [💼 Bank Loan BI Project](https://github.com/YourUsername/Bank-Loan-Analysis)  
+  End-to-end Power BI project for loan performance and risk analysis.
+
+- [📱 Mobile Sales Dashboard](https://github.com/YourUsername/Mobile-Sales-Analysis)  
+  Interactive Power BI sales report for mobile transactions.
+
+## 🛠️ Tools & Skills
+
+**Power BI**, **SQL**, **Python**, **DAX**, **ETL**, **Machine Learning**, **Storytelling**
