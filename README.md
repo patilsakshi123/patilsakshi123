@@ -16,7 +16,26 @@ Interactive Power BI Dashboard for India’s Health, Nutrition & Empowerment Ind
 - CSV/Excel Data Preparation
 
 ----
+## [🔗 HR ANALYTICS DASHBOARD](https://github.com/patilsakshi123/HR-Analytics-Dashboard)  
 
+A dynamic HR Analytics Dashboard built in Tableau to track headcount, attrition trends, and employee demographics. Includes interactive filters, custom charts, and a clean visual design to help HR teams gain clear workforce insights.
+
+🛠️ Tools Used:
+- Tableau Desktop
+- EXCEL
+- Powerpoint (Custom Background Design)
+
+----
+## [🔗 CREDIT CARD COMPLAINTS DASHBOARD](https://github.com/patilsakshi123/Credit-Card-Complaints-Dashboard)  
+
+Designed an interactive Tableau dashboard to analyze credit card complaints with dynamic KPIs, rolling trends, maps, sparklines, top issues, daily heatmaps, and detailed company response breakdowns. Leveraged advanced Tableau features like parameter toggles, dual-axis charts, calendars, and export-ready layouts to deliver clear, actionable insights.
+
+🛠️ Tools Used:
+- Tableau Desktop
+- EXCEL
+
+
+----
 
 ## [🔗 CUSTOMER CHURN ANALYSIS DASHBOARD](https://github.com/patilsakshi123/Customer-Churn-Analysis-Dashboard)  
 End-to-end Customer Churn Analysis with SQL, Power BI & Python ML – ETL pipelines, dynamic dashboards, Random Forest churn predictions, and Smart Narrative insights for actionable business decisions.
